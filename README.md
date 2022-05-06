@@ -1,6 +1,9 @@
 # snake
 Snake game in Python
 
+Usage:
+python3 snake.py
+
 Features:
 - Difficulty selection (1-20)
 - Select board size (1-3)
