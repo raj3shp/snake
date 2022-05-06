@@ -7,6 +7,6 @@ Features:
 - Auto-play with bot module
 
 Bot Types:
-1 Joey - Free run, no collision, basic
-2 Isaac - Simple collision avoidance pattern A
-3 Elon - Simple collision avoidance pattern B
+- 1 Joey - Free run, no collision, basic
+- 2 Isaac - Simple collision avoidance pattern A
+- 3 Elon - Simple collision avoidance pattern B
